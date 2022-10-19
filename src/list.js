@@ -127,7 +127,7 @@ export const ItemsList = [
       {
         title: "GTA V",
         downloadCount: "87.3K",
-        src: "/icons/gts-5.png",
+        src: "/icons/gta-5.png",
         downloadLink: "https://vk.com"
       },
       {
