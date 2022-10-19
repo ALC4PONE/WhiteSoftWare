@@ -28,3 +28,9 @@ export const ItemsList = [
     ]
   }
 ]
+{
+        title: "3DS MAX",
+        downloadCount: "87.2K",
+        src: "/icons/brand_autodesk_icon_158012.png",
+        downloadLink: "https://youtube.com"
+      },
