@@ -1,4 +1,6 @@
 export const ItemsList = [
+  // Начало
+
   {
     title: "Softwares",
     data: [
@@ -8,8 +10,15 @@ export const ItemsList = [
         src: "/icons/WondershareFilmora.png",
         downloadLink: "https://vk.com"
       },
+      {
+        title: "3DS MAX",
+        downloadCount: "87.2K",
+        src: "/icons/brand_autodesk_icon_158012.png",
+        downloadLink: "https://youtube.com"
+      },
     ]
   },
+  
   {
     title: "Adobe",
     data: [
@@ -27,10 +36,7 @@ export const ItemsList = [
       }
     ]
   }
+  
+  
+  // Конец
 ]
-{
-        title: "3DS MAX",
-        downloadCount: "87.2K",
-        src: "/icons/brand_autodesk_icon_158012.png",
-        downloadLink: "https://youtube.com"
-      },
