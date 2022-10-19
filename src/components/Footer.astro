@@ -1,0 +1,21 @@
+---
+import NavbarLink from './NavbarLink.tsx'
+---
+
+<footer class="mt-10 w-full">
+  <div class="flex items-center justify-between w-full px-10 py-5 bg-white">
+    <img class="w-16" src="/logo.png" />
+    <nav
+      class="mr-7"
+    > 
+      <ul class="flex justify-between	items-center w-40">
+        <li><NavbarLink client:load href="main" name="Main"/></li>
+        <li><NavbarLink client:load href="catalog" name="Catalog" /></li>
+        <li><NavbarLink client:load href="faq" name="FAQ"/></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="flex items-center justify-center mt-px bg-white py-2 font-mplus font-light text-sm">
+    © WhiteSoftware, 2022. All rights reserved.
+  </div>
+</footer>

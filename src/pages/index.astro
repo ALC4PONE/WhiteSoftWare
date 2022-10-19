@@ -1,0 +1,173 @@
+---
+import Layout from '../layouts/Layout.astro';
+import InfoCard from '../components/InfoCard.astro'
+import Item from '../components/Item.astro'
+import InfoItem from '../components/InfoItem.tsx'
+
+const ItemsList = [
+  {
+    title: "Softwares",
+    data: [
+      {
+        title: "Wondershare Filmora",
+        downloadCount: "77.2K",
+        src: "/icons/WondershareFilmora.png",
+        downloadLink: "https://vk.com"
+      },
+    ]
+  },
+  {
+    title: "Adobe",
+    data: [
+      {
+        title: "Adobe Photoshop",
+        downloadCount: "87.2K",
+        src: "/icons/AdobePhotoshop.png",
+        downloadLink: "https://youtube.com"
+      },
+      {
+        title: "Adobe Acrobat",
+        downloadCount: "63.6K",
+        src: "/icons/AdobeAcrobat.png",
+        downloadLink: "https://youtube.com"
+      }
+    ]
+  }
+]
+---
+
+<Layout title="WhiteSofware — Free programs without registration, torrents and SMS">
+
+  <main id="main" class="flex flex-col p-5 md:hidden">
+    <img class="w-fit" src="/main.png" />
+    <div 
+      class="w-full flex flex-col items-center"
+    >
+      <h1 class="text-center text-3xl md:text-4xl font-mplus font-bold mt-12 tracking-tight">
+        On <span class="text-blue-600">WhiteSoftware</span> you can download programs of any category <span class="text-blue-600">absolutely for free</span> 🚀
+      </h1>
+    
+      <p class="text-center font-mplus font-light mt-5">
+        The site was created for users who are going to download computer programs, we tried to collect all the necessary programs that may be needed when using a computer for work, study and entertainment. You can download programs without registration, torrents and SMS.
+      </p>
+
+      <a 
+        href="#catalog"
+        class="bg-blue-500 w-11/12 text-sm text-white text-center rounded-md p-2 mt-5 hover:scale-105 transition duration-150 ease-in-out after:content-['→']"
+      >
+        Go to catalog!
+      </a>
+    </div>
+  </main>
+
+  <main
+    class="hidden md:flex mt-10 p-10 justify-between items-center"
+  >
+    <div
+      class="flex flex-col items-start w-6/12"
+    >
+      <h1 class="text-left text-4xl font-mplus font-bold tracking-tight leading-10">
+        On <span class="text-blue-600">WhiteSoftware</span> you can download programs of any category <span class="text-blue-600">absolutely for free</span> 🚀
+      </h1>
+
+      <p class="text-left text-sm font-mplus font-light mt-5">
+        The site was created for users who are going to download computer programs, we tried to collect all the necessary programs that may be needed when using a computer for work, study and entertainment. You can download programs without registration, torrents and SMS.
+      </p>
+
+      <a 
+        href="#catalog"
+        class="bg-blue-500 w-40 text-sm text-white text-center rounded-md p-2 mt-5 hover:scale-105 transition duration-150 ease-in-out after:content-['→']"
+      >
+        Go to catalog!
+      </a>
+    </div>
+    <img class="w-6/12 h-2/5 pl-5" src="/main.png" />
+  </main>
+
+  <section
+    class="px-10 mt-10 grid gap-4 grid-cols-1 md:grid-cols-2 justify-items-stretch w-full"
+  >
+    <InfoCard 
+      heading="Completely free"
+      description="On our website you can download absolutely any program without registration, torrents and SMS. You won't have to pay for it."
+      src="/heart.svg"
+    />
+    <InfoCard
+      heading="High speed"
+      description="You can download absolutely any program at high speed from anywhere in the world thanks to a distributed content delivery network."
+      src="/electric.svg"
+    />
+    <InfoCard 
+      heading="Safely"
+      description="We carefully check each program before publishing it to avoid viruses getting on your computer."
+      src="/lock.svg"
+    />
+    <InfoCard 
+      heading="User selection"
+      description="Thousands of users visit our site every day and download programs for various purposes: games, work and entertainment."
+      src="/group.svg"
+    />
+  </section>
+
+  <section
+    id="catalog"
+    class="px-10 mt-14 w-full"
+  >
+    <h1 class="text-3xl font-mplus font-bold">Catalog</h1>
+    <div
+      class="grid gap-4 grid-cols-1 md:grid-cols-2 justify-items-stretch mt-5"
+    >
+      {
+        ItemsList.map(e => (
+          <div class="bg-white p-5 rounded-xl font-mplus">
+            <h2 class="font-bold text-xl">{e.title}</h2>
+            <div class="grid grid-col-1 divide-y h-auto mt-5">
+              {
+                e.data.map(item => (
+                  <Item src={item.src} title={item.title} downloadCount={item.downloadCount} downloadLink={item.downloadLink} />
+                ))
+              }
+              
+            </div>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  
+  <section
+    id="faq"
+    class="px-10 mt-14 w-full"
+  >
+    <div
+      class="bg-white rounded-lg p-5"
+    >
+      <h2 class="font-mplus font-bold text-2xl">
+        Need more help?
+      </h2>
+      <div class="grid grid-col-1 gap-4 mt-5">
+        <InfoItem
+          client:visible
+          title="How do I download the software?"
+          description="You can choose one of the software in our universal catalog. After clicking on the 'Download' button, a window will open in which the program will be described."
+        />
+        <InfoItem
+          client:visible
+          title="Am I downloading the software for free?"
+          description="Yes, it's absolutely free. You can download any software you like and download them at high speed without registration, torrents and SMS."
+        />
+        <InfoItem
+          client:visible
+          title="Why is the archive under a password?"
+          description="Crack is already installed in the downloaded software, because of this, Windows Defender and other antiviruses swear at it. Don't worry, we check all the software before publishing them."
+        />
+        <InfoItem
+          client:visible
+          title="What about viruses?"
+          description="Don't worry, we check the published software very carefully, viruses are excluded."
+        />
+      </div>
+    </div>
+  </section>
+</Layout>

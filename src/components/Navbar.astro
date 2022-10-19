@@ -1,0 +1,18 @@
+---
+import NavbarLink from './NavbarLink.tsx'
+---
+
+<header
+  class="fixed top-0 p-0.5 w-full flex items-center justify-between bg-white z-10"
+>
+  <img class="w-16 h-16 ml-7" width="64" height="64" src="/logo.png" />
+  <nav
+    class="mr-7"
+  >
+    <ul class="flex justify-between	items-center w-40">
+      <li><NavbarLink client:load href="main" name="Main" /></li>
+      <li><NavbarLink client:load href="catalog" name="Catalog" /></li>
+      <li><NavbarLink client:load href="faq" name="FAQ" /></li>
+    </ul>
+  </nav>
+</header>

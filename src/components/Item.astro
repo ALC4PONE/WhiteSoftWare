@@ -1,0 +1,19 @@
+---
+interface Item {
+  title: string,
+  src: string,
+  downloadCount: string,
+  downloadLink: string
+}
+
+const { title, src, downloadCount, downloadLink } = Astro.props as Item
+---
+
+<div class="flex justify-between items-center w-full py-3">
+  <img class="w-12 sm:w-16" src={src} />
+  <div class="w-full text-start pl-2 sm:pl-5">
+    <h3 class="font-bold text-sm sm:text-base">{title}</h3>
+    <p class="font-light text-gray-400 text-xs sm:text-base">{downloadCount} downloads</p>
+  </div>
+  <a class="bg-indigo-100 py-1 sm:py-2 px-2 sm:px-4 rounded-full text-xs sm:text-base text-blue-600 hover:scale-105 transition duration-150 ease-in-out" href={downloadLink}>Download</a>
+</div>

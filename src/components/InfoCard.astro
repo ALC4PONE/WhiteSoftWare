@@ -1,0 +1,20 @@
+---
+interface InfoCardProps {
+  heading: string,
+  description: string,
+  src: string
+}
+
+const { heading, description, src } = Astro.props as InfoCardProps
+---
+
+<div class="relative bg-white rounded-xl p-7">
+  <h2
+    class="text-xl font-mplus font-bold"
+  >
+    {heading}
+  </h2>
+  <p class="mt-5 leading-5">{description}</p>
+  
+  <img class="absolute right-5 top-5 bg-indigo-100 p-3 rounded-2xl w-12" src={src} />
+</div>
