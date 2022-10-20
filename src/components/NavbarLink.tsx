@@ -11,7 +11,7 @@ export default function NavbarLink({ href, name }: NavLink) {
   return (
     <Link
       to={href}
-      activeClass="text-blue-600"
+      activeClass="text-blue-600 font-mplus font-regular text-sm cursor-pointer transition duration-150 ease-in-out"
       spy={true}
       smooth={true}
       offset={-70}
