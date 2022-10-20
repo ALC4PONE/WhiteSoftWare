@@ -16,7 +16,7 @@ export default function NavbarLink({ href, name }: NavLink) {
       smooth={true}
       offset={-70}
       duration={500}
-      class="hover:text-blue-600 transition duration-150 ease-in-out font-mplus font-regular text-sm cursor-pointer"
+      className="hover:text-blue-600 transition duration-150 ease-in-out font-mplus font-regular text-sm cursor-pointer"
     >
       {name}
     </Link>
