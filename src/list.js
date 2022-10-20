@@ -29,7 +29,7 @@ export const ItemsList = [
         downloadLink: "https://vk.com"
       },
       {
-        title: "Adobr Lightroom",
+        title: "Adobe Lightroom",
         downloadCount: "36.5K",
         src: "/icons/adobe-lightroom.png",
         downloadLink: "https://vk.com"
