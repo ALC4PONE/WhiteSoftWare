@@ -21,11 +21,11 @@ export default function Popup({ src, title, downloadCount, description, download
         onClick={closePopup}
       >
         <div
-          className="flex flex-col bg-white w-2/6 p-10 relative"
+          className="flex flex-col bg-white w-80 md:w-96 lg:w-2/5 p-10 relative"
           onClick={e => e.stopPropagation()}
         >
           <XMarkIcon
-            className="absolute top-5 right-5 w-8 cursor-pointer"
+            className="absolute top-2 md:top-5 right-2 md:right-5 w-6 cursor-pointer"
             onClick={closePopup}
           />
           <div
@@ -36,10 +36,10 @@ export default function Popup({ src, title, downloadCount, description, download
               className="mr-3 w-16"
             />
             <div>
-              <h2 className="font-mplus font-bold text-xl">
+              <h2 className="font-mplus font-bold text-md md:text-xl">
                 {title}
               </h2>
-              <p className="font-mplus font-light">
+              <p className="font-mplus font-light text-sm md:text-md">
                 {downloadCount} downloads
               </p>
             </div>
@@ -48,7 +48,7 @@ export default function Popup({ src, title, downloadCount, description, download
             {description}
           </p>
           <div
-            className="bg-indigo-100 px-5 py-3 mb-5 text-blue-500"
+            className="bg-indigo-100 px-3 py-2 mb-5 text-blue-500 text-sm"
           >
             Password for the archive: 2022
           </div>
