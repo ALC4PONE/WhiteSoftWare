@@ -9,7 +9,7 @@ interface Item {
   downloadLink: string
 }
 
-export default function Item({ title, src, downloadCount, downloadLink, description }: Item) {
+export default function Item({ title, src, downloadCount, downloadLink }: Item) {
   const [isShow, setIsShow] = useState(false)
 
   const handleClick = () => setIsShow(true)
@@ -33,7 +33,6 @@ export default function Item({ title, src, downloadCount, downloadLink, descript
         src={src}
         downloadCount={downloadCount}
         downloadLink={downloadLink}
-        description={description}
         isShow={isShow}
         closePopup={closePopup}
       />

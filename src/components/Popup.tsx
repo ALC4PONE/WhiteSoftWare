@@ -6,13 +6,12 @@ interface Info {
   src: string,
   title: string,
   downloadCount: string,
-  description: string,
   downloadLink: string,
   isShow: boolean,
   closePopup: Function
 }
 
-export default function Popup({ src, title, downloadCount, description, downloadLink, isShow, closePopup }: Info) {
+export default function Popup({ src, title, downloadCount, downloadLink, isShow, closePopup }: Info) {
   if (isShow) {
     return (
 
@@ -44,9 +43,6 @@ export default function Popup({ src, title, downloadCount, description, download
               </p>
             </div>
           </div>
-          <p className="font-mplus font-light text-md mb-5">
-            {description}
-          </p>
           <div
             className="bg-indigo-100 px-3 py-2 mb-5 text-blue-500 text-sm"
           >
