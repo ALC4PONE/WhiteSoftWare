@@ -33,7 +33,7 @@ export default function Popup({ src, title, downloadCount, description, download
           >
             <img
               src={src}
-              className="pr-3"
+              className="mr-3 w-16"
             />
             <div>
               <h2 className="font-mplus font-bold text-xl">
