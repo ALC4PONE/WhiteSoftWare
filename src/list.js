@@ -47,7 +47,7 @@ export const ItemsList = [
         downloadLink: "https://siasky.net/fAT6RRMMjVMJXIbM7x7cNSmIlXC6_1aL3mnl2Dx1uV0rcQ"
       },
       {
-        title: "Autodeck",
+        title: "Autodesk",
         downloadCount: "87.2K",
         src: "/icons/autodesk.png",
         downloadLink: "https://siasky.net/fAQYE1P4r8rhLctqeTek8h_psX0uj8eLJblvIDnYdZ1iSg"
