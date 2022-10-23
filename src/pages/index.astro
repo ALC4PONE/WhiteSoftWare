@@ -1,11 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import InfoCard from '../components/InfoCard.astro'
-import Item from '../components/Item.astro'
+import Item from '../components/Item.tsx'
 import InfoItem from '../components/InfoItem.tsx'
+import Popup from '../components/Popup.tsx'
 import { ItemsList } from '../list.js'
-
-
 ---
 
 <Layout>
@@ -96,7 +95,7 @@ import { ItemsList } from '../list.js'
             <div class="grid grid-col-1 divide-y h-auto mt-5">
               {
                 e.data.map(item => (
-                  <Item src={item.src} title={item.title} downloadCount={item.downloadCount} downloadLink={item.downloadLink} />
+                  <Item client:visible src={item.src} title={item.title} downloadCount={item.downloadCount} downloadLink={item.downloadLink} />
                 ))
               }
               
