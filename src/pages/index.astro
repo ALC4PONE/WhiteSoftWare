@@ -95,7 +95,14 @@ import { ItemsList } from '../list.js'
             <div class="grid grid-col-1 divide-y h-auto mt-5">
               {
                 e.data.map(item => (
-                  <Item client:visible src={item.src} title={item.title} downloadCount={item.downloadCount} downloadLink={item.downloadLink} />
+                  <Item 
+                  client:visible 
+                  src={item.src} 
+                  title={item.title} 
+                  downloadCount={item.downloadCount} 
+                  downloadLink={item.downloadLink}
+                  description={item.description}
+                  />
                 ))
               }
               
