@@ -46,7 +46,7 @@ export default function Popup({ src, title, downloadCount, downloadLink, isShow,
           <div
             className="bg-indigo-100 px-3 py-2 mb-5 text-blue-500 text-sm"
           >
-            Password for the archive: 2022
+            Password for the archive: 1234
           </div>
           <a
             className="bg-blue-500 self-end py-2 px-3 text-white rounded-md cursor-pointer transition duration-150 ease-in-out hover:scale-105"
