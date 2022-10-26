@@ -62,7 +62,7 @@ export const ItemsList = [
         title: "Sony Vegas",
         downloadCount: "31.4K",
         src: "/icons/сони-вегас.png",
-        downloadLink: "https://filebin.net/7ocnr0nz2racwk4m/Vegas_Pro_Crack.zip"
+        downloadLink: "https://filebin.net/yw8581c9p0l73pcy/Vegas_Pro_Crack.zip"
       },
       {
         title: "Cinema 4D",
