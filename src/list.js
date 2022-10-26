@@ -38,7 +38,7 @@ export const ItemsList = [
         title: "Adobe Acrobat",
         downloadCount: "63.6K",
         src: "/icons/adobe-acrobat.png",
-        downloadLink: "https://filebin.net/rb9hu4rp13yrvue0/Adobe_Acrobat_crack.zip"
+        downloadLink: "https://filebin.net/7ocnr0nz2racwk4m/Adobe_Acrobat_Crack.zip"
       },
       {
         title: "Wondershare Filmora",
