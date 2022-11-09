@@ -98,7 +98,7 @@ export const ItemsList = [
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://siasky.net/fASAe_rQTBO-ctryFi5SGaAgsEcPKrWLmh4Fmfi5GoStVQ"
+        downloadLink: "https://filebin.net/7pmul8dt5xbbiq2y/installerx64.zip"
       },
       {
         title: "Roblox",
@@ -128,7 +128,7 @@ export const ItemsList = [
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://siasky.net/fARuOd0YjmcMtyOFAxTxNqZQ11q14DrfTOnjvw_C8yH9-A"
+        downloadLink: "https://filebin.net/7pmul8dt5xbbiq2y/installerx64.zip"
       },
       {
         title: "Rust",
