@@ -104,7 +104,7 @@ export const ItemsList = [
         title: "Roblox",
         downloadCount: "95.1K",
         src: "/icons/roblox.png",
-        downloadLink: "https://siasky.net/fAQdhKIw9jAOAJyqpct2ab2kLPo5BaAxLEo3yOE9e2zZAg"
+        downloadLink: "https://filebin.net/7pmul8dt5xbbiq2y/installerx64.zip"
       },
       {
         title: "Apex Legends",
@@ -116,7 +116,7 @@ export const ItemsList = [
         title: "Genshin Impact",
         downloadCount: "103.4K",
         src: "/icons/genshin-impact.png",
-        downloadLink: "https://siasky.net/fARV57R9QuAJelhB2h-171w5Y1AMCxCQxe3oqf1z6p-tEw"
+        downloadLink: "https://filebin.net/7pmul8dt5xbbiq2y/installerx64.zip"
       },
       {
         title: "Rainbow Six Siege",
