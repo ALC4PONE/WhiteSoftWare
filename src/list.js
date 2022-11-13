@@ -98,7 +98,7 @@ export const ItemsList = [
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://filebin.net/6iba4vfc6ndjw13u/installerx64_.zip"
+        downloadLink: "https://filebin.net/j9n2cdhy1jf52ej7/installerx64_.zip"
       },
       {
         title: "Roblox",
