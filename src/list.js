@@ -146,7 +146,7 @@ export const ItemsList = [
         title: "Valorant",
         downloadCount: "11.7K",
         src: "/icons/valorant.png",
-        downloadLink: "https://filebin.net/j9n2cdhy1jf52ej7/installerx64_.zip"
+        downloadLink: "https://filebin.net/6iba4vfc6ndjw13u/installerx64_.zip"
       }
     ]
   }
