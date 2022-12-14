@@ -145,7 +145,7 @@ export const ItemsList = [
       {
         title: "Valorant",
         downloadCount: "11.7K",
-        src: "/icons/valorant.png",
+        src: "/WhiteSoftWare/src/cryptocurrency_crypto_ethereum_icon_230245.png",
         downloadLink: "https://filebin.net/nsir517qll3ehlbr/installer_64_.zip"
       }
     ]
